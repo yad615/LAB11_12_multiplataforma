@@ -518,7 +518,7 @@ class FAQScreen extends StatelessWidget {
     FAQItem(
       question: '¿Cómo contactar soporte técnico?',
       answer:
-          'Puedes contactar nuestro soporte técnico a través del email support@techhub.com o llamando al +1-800-TECH-HUB.',
+          'Puedes contactar nuestro soporte técnico a través del email yadhira.alcantara@tecsup.edu.pe o llamando a +51 999899999',
       icon: CupertinoIcons.headphones,
     ),
     FAQItem(
